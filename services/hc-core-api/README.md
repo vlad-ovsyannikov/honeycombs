@@ -36,6 +36,8 @@ $ npm install
 
 ## Running the app
 
+While the application is running, open your browser and navigate to http://localhost:3000/api. You should see the Swagger UI.
+
 ```bash
 # development
 $ npm run start
